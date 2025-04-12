@@ -1,7 +1,7 @@
 # -HackIndia-Spark-6-2025-Enroll-X
 # 🔗 FactChain  
 **Decentralized Knowledge Graph with AI-Powered Semantic Search**  
-_HackIndia Spark 6 – 2025 | Team: Enroll-X_
+_HackIndia Spark 6 – 2025 | Team: Enroll-X
 
 FactChain is a decentralized platform that fuses blockchain, AI, and semantic knowledge graphs to create a trust-first system for fact storage, verification, and discovery. Built for resilience, transparency, and community governance, FactChain aims to reshape how knowledge is contributed, curated, and consumed.
 
