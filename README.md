@@ -9,7 +9,7 @@ FactChain is a decentralized platform that fuses blockchain, AI, and semantic kn
 
 ## 🚀 Overview
 
-FactChain empowers users to submit, search, and validate facts in a decentralized way. Contributions are stored permanently using IPFS and Ceramic, semantically linked in a browsable knowledge graph, and made searchable with GPT-4 powered AI.
+FactChain empowers users to submit, search, and validate facts in a decentralized way. Contributions are stored permanently using IPFS, semantically linked in a browsable knowledge graph, and made searchable with LLMs.
 
 Whether you're submitting a new fact, exploring interconnected concepts, or staking your reputation on truth—FactChain ensures credibility is transparent and community-owned.
 
@@ -24,10 +24,10 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
   Facts are semantically interlinked, forming a browsable and meaningful knowledge web.
 
 - 🔐 **Decentralized Storage**  
-  Uses **IPFS** and **Ceramic** to ensure permanence and censorship resistance.
+  Uses **IPFS** to ensure permanence and censorship resistance.
 
 - 🧠 **AI Semantic Search**  
-  GPT-4 powered search engine returns fact summaries and related concepts using natural language queries.
+  LLMs returns fact summaries and related concepts using natural language queries.
 
 - 🎯 **Reputation Staking**  
   Contributors stake tokens when submitting/editing facts. Community feedback affects their reputation and token balance.
@@ -47,16 +47,13 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
 - ✏️ **Edit Proposal System**  
   Users can propose edits to facts. Community reviews and votes on changes.
 
-- 🧑‍⚖️ **DAO-Based Moderation**  
-  Disputed facts and reports are resolved via decentralized governance.
-
 - 💬 **Comment Threads**  
   Discuss facts directly in context with other contributors.
 
 - 🏆 **Reputation Leaderboard**  
   Highlights top contributors and community-vetted knowledge builders.
 
-- 🎁 **Optional Token Rewards**  
+- 🎁 **Token Rewards**  
   High-reputation contributors can earn token incentives.
 
 ---
@@ -66,20 +63,20 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
 | Component      | Technology Used                              |
 |----------------|-----------------------------------------------|
 | Smart Contracts | Solidity, Hardhat                           |
-| Decentralized Storage | Ceramic, IPFS                        |
-| Frontend        | React, Tailwind CSS, Ethers.js, GraphVis     |
-| AI Integration  | OpenAI GPT-4 API for semantic understanding |
-| Backend (optional) | Node.js / Express for APIs (if needed) |
+| Decentralized Storage |  IPFS                        |
+| Frontend        | React, Tailwind CSS, Ethers.js     |
+| AI Integration  | Hugging face |
+| Backend (optional) | Node.js / Express for APIs  |
 
 ---
 
 ## 📍 Hackathon Roadmap (To-Do)
 
 - ✅ Smart Contract: Submission, Voting, and Staking
-- ⛓️ IPFS + Ceramic Integration
-- 🔄 AI Query Response with GPT-4
+- ⛓️ IPFS 
+- 🔄 AI Query Response with LLMs
 - 🎨 UI/UX Implementation
-- 🗳️ Reputation + DAO Voting Logic
+- 🗳️ Reputation +  Voting Logic
 - 🧪 Testing + Demo Prep
 
 ---
@@ -96,3 +93,7 @@ In a world overwhelmed with misinformation, **FactChain** provides a decentraliz
 
 ❤️ by Team **Enroll-X** at **HackIndia Spark 6 – 2025**
 
+## Team
+- Parth Pawar
+- Krishna Chamarthy
+- Bhavesh Chauhan
