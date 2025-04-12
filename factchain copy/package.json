@@ -1,0 +1,23 @@
+{
+  "name": "factchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.23.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.3.0",
+    "ethers": "^6.13.5",
+    "ipfs-http-client": "^56.0.2",
+    "kubo-rpc-client": "^5.1.0"
+  }
+}
